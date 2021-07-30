@@ -15,8 +15,8 @@ There are some movies which are showing negative profit. We need to find out wha
 There are 3 movies, 27, 14 and 8, having 3 popualr actors having considerable number of likes.
 
         Title                      actor_1_name        actor_2_name    actor_3_name          actor_123_likes
-27     Inception                  Leonardo DiCaprio   Tom Hardy       Joseph Gordon-Levitt  79000.0
-14     X-Men: Days of Future Past Jennifer Lawrence   Peter Dinklage  Hugh Jackman          76000.0
-8      The Dark Knight Rises      Tom Hardy           Christian Bale  Joseph Gordon-Levitt  73000.0
+        27     Inception                  Leonardo DiCaprio   Tom Hardy       Joseph Gordon-Levitt  79000.0
+        14     X-Men: Days of Future Past Jennifer Lawrence   Peter Dinklage  Hugh Jackman          76000.0
+        8      The Dark Knight Rises      Tom Hardy           Christian Bale  Joseph Gordon-Levitt  73000.0
 
 "Leonardo DiCaprio", "Tom Hardy" and "Joseph Gordon-Levitt" having total likes as 79000.0 and individual likes as 29000, 27000 and 23000 respectively.
